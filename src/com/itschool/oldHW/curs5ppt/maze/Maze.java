@@ -1,4 +1,4 @@
-package com.itschool.challange.curs5ppt.maze;
+package com.itschool.oldHW.curs5ppt.maze;
 
 /*
 Challenge
